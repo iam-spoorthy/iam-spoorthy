@@ -64,7 +64,7 @@ Docker • GitHub Actions • Vercel • Git
 
 ## Connect With Me
 
-📧 **spoorthy.23bcs10144@sst.scaler.com**
+📧 **spoorthymadasu@gmail.com**
 
 💼 LinkedIn  
 https://www.linkedin.com/in/spoorthy-madasu-b3765428b/
