@@ -1,16 +1,84 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**iam-spoorthy/iam-spoorthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey 👋 I'm Spoorthy Madasu
 
-Here are some ideas to get you started:
+### Full Stack Developer • AI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building products where AI meets real-world systems.
+
+Currently learning:
+**LangChain • LangGraph • FastAPI • Agentic AI Systems**
+
+</div>
+
+---
+
+## About Me
+
+- Full Stack Developer focused on MERN + AI
+- Building AI-powered applications and multi-agent systems
+- Open to Full Stack, Backend and AI Engineering roles
+
+---
+
+## Projects
+
+### 🧠 Multi-Agent RAG Research Assistant
+AI research system with multi-agent orchestration, hybrid retrieval, web search and visual Q&A.
+
+### 🍽️ EcoMeal
+AI-powered restaurant operating system for inventory, analytics and real-time operations.
+
+### 💙 SerenAI
+AI mental wellness platform with conversational memory, mood tracking and personalized support.
+
+---
+
+## Tech Stack
+
+### Frontend
+React • Next.js • React Native • Tailwind CSS
+
+### Backend
+Node.js • Express.js • Spring Boot • FastAPI
+
+### AI
+LangGraph • LangChain • Gemini • RAG • Prompt Engineering
+
+### Databases
+MongoDB • PostgreSQL • Redis • ChromaDB
+
+### DevOps
+Docker • GitHub Actions • Vercel • Git
+
+---
+
+## Open To
+
+- Full Stack Developer Roles
+- Backend Engineer Roles
+- AI Engineer Roles
+- Founding Engineer Opportunities
+
+---
+
+## Connect With Me
+
+📧 **spoorthy.23bcs10144@sst.scaler.com**
+
+💼 LinkedIn  
+https://www.linkedin.com/in/spoorthy-madasu-b3765428b/
+
+🐙 GitHub  
+https://github.com/iam-spoorthy
+
+🐙 GitHub (Open Source)  
+https://github.com/Spoorthy1423
+
+---
+
+<div align="center">
+
+### Building. Learning. Shipping. 🚀
+
+</div>
